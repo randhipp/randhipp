@@ -6,3 +6,5 @@
 - 💬 Ask me about NodeJS, Express, PHP, Laravel, Bull, Horizon, Redis, Queue
 - 📫 How to reach me, sent me an email to randhi@wafvel.com
 - 🗒️ Happy to Connect at https://linked.in/in/randhipp
+
+[![Randhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=randhipp)](https://github.com/anuraghazra/github-readme-stats)
