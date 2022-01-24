@@ -8,3 +8,5 @@
 - 🗒️ Happy to Connect at https://linked.in/in/randhipp
 
 [![Randhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=randhipp)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randhipp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
