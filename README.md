@@ -1,11 +1,29 @@
-### Hi there 👋
+# Randhi Putra 👋
 
-- 🔭 I’m currently working as Senior Software Engineer on [TnF](https://www.thoughtandfunction.com)
-- 👯 I’m looking anyone to buy my domain - https://wafvel.com
-- 💬 Ask me about TypeScript, React, NodeJS, Express, PHP, Laravel, Go, Java
-- 📫 How to reach me, sent me an email to randhi@wafvel.com
-- 🗒️ Happy to Connect at [LinkedIn](https://linked.in/in/randhipp) | [Gitlab - Personal](https://gitlab.com/randhi.pp)
+Senior Software Developer specializing in **Fullstack Engineering** & **AI Product Development**.
 
-[![Randhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=randhipp)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Focus Areas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randhipp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- **Fullstack Engineering:** Designing scalable, high-performance backends (Node.js, Go, TypeScript) and interactive, responsive user interfaces (React).
+- **AI Product Integration:** Orchestrating Large Language Models, developing autonomous agents, and implementing semantic/vector search architectures.
+- **Product Craftsmanship:** Creating refined, user-centric products from scratch with solid performance and clean architecture.
+
+## 💼 Experience & Projects
+
+- **Senior Software Engineer** at [Thought & Function](https://www.thoughtandfunction.com) (2021 — Present)
+- Developing autonomous systems, API structures, and optimized frontend experiences.
+
+## 🔗 Connect with me
+
+- 🌐 **Portfolio:** [randhipp.github.io/randhipp](https://randhipp.github.io/randhipp)
+- ✉️ **Email:** [hey@randhi.pro](mailto:hey@randhi.pro)
+- 👔 **LinkedIn:** [linkedin.com/in/randhipp](https://linkedin.com/in/randhipp)
+- 🦊 **GitLab:** [gitlab.com/randhi.pp](https://gitlab.com/randhi.pp)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=randhipp&show_icons=true&theme=dark" alt="Randhi's GitHub stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randhipp&layout=compact&theme=dark" alt="Top Langs" />
+</p>
