@@ -10,7 +10,7 @@ Senior Software Developer specializing in **Fullstack Engineering** & **AI Produ
 
 ## 💼 Experience & Projects
 
-- **Senior Software Engineer** at [Thought & Function](https://www.thoughtandfunction.com) (2021 — Present)
+- **Senior Software Engineer** at [Thought & Function](https://www.thoughtandfunction.com) (2024 — Present)
 - Developing autonomous systems, API structures, and optimized frontend experiences.
 
 ## 🔗 Connect with me
